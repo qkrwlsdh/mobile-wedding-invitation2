@@ -51,10 +51,6 @@ function App() {
           <GalleryWrap />
         </Wrapper>
         <Wrapper>
-          <Heading1>마음 전하실 곳</Heading1>
-          <Account />
-        </Wrapper>
-        <Wrapper>
           <Heading1>오시는 길</Heading1>
           <Location />
         </Wrapper>
